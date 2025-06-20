@@ -142,7 +142,7 @@ For production:
 
 ## 📬 Contact
 
-Developed and maintained by the **[Quantitative Imaging Research and AI Lab (QIRAIL)]** (https://qirail.cmcvellore.edu.in/) at Christian Medical College, Vellore.  
+Developed and maintained by the **[Quantitative Imaging Research and AI Lab (QIRAIL)](https://qirail.cmcvellore.edu.in/)** at Christian Medical College, Vellore.  
 
 For queries or contributions, reach out via [GitHub Issues](https://github.com/your-org/HNC-Risk-Prediction-Dashboard/issues) or submit a pull request.
 
