@@ -123,18 +123,20 @@ For production:
 
 ---
 
-For detailed technical specifications, see:
-- [Implementation Plan](Implementation Plan_ Risk Prediction Dashboard.docx)
-- [Requirements Analysis](Requirements Analysis_ Risk Prediction Dashboard.docx)
-
----
-
 ## 🔒 Security & Compliance
 
 - Fully on-premise deployment (no external cloud services)
 - HTTPS & optional authentication via NGINX
 - Input sanitization and error handling implemented
 - Institutional data privacy policies respected
+
+---
+
+---
+
+## For detailed technical specifications, see:
+- [Implementation Plan](Implementation Plan_ Risk Prediction Dashboard.docx)
+- [Requirements Analysis](Requirements Analysis_ Risk Prediction Dashboard.docx)
 
 ---
 
